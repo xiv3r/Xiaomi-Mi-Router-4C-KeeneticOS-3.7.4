@@ -1,4 +1,5 @@
 # Xiaomi Router 4C Keenetic 3.7.4 Firmware with USB-mod support
+
 Install Keenetic on Xiaomi 4C Router | SPI_NOR GigaDevice GD25Q128*
 
 Note: If you have a router without USB, then you can install it too.
@@ -7,21 +8,18 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
 ## Installations:
 
-- 0. Download the archive with scripts, unpack. There are many files in the folder, we are only interested in !Start.bat .
-Attached fileR4C_2.2.zip(20.53 MB)
+ 0. Download the archive with scripts, unpack. There are many files in the folder, we are only interested in `!Start.bat`
+ 1. `Reset` the router settings, go through the initial setup and set a password (for further convenience, put `12345678`
+ 2. Disconnect everything unnecessary from the router and from the PC, and also turn off WiFi on the PC.
+ 3. Run `!Start.bat` select item `11`  Follow the instructions on the window.
+ 4. Run `22` , a backup of your firmware will be created in the data folder. Keep it in a safe place.
+ 5. Run `55` - to install Keenetic. In ~5 minutes the firmware will be installed, you can log into the router:`192.168.1.1`
 
-- 1. Reset the router settings, go through the initial setup and set a password (for further convenience, put 12345678 ). Disconnect everything unnecessary from the router and from the PC, and also turn off WiFi on the PC.
+# FEATURES
 
-- 2. Run !Start.bat , select item 11 . Follow the instructions on the window.
+<details><summary>Overview</summary>
 
-- 3. Run 22 , a backup of your firmware will be created in the data folder. Keep it in a safe place.
-
-- 4. Run 55 - to install Keenetic. In ~5 minutes the firmware will be installed, you can log into the router: 192.168.1.1
-
-<details><summary>FEATURES</summary>
-</details>
-
-0. Wi-Fi interface
+ ## Wi-Fi interface
 Provides the core wireless functionality. This component will be installed automatically if needed.
 
 - USB interface
@@ -45,11 +43,11 @@ Allows to gain secure access to the device's command line.
 - Wi-Fi system controller
 Centralized Mesh Wi-Fi System management.
 
-- System operating mode
-Repeater/Extender mode
+## System operating mode
+- Repeater/Extender mode
 For expanding the wireless network of another Keenetic.
 
-1. Internet safety
+## Internet safety
 
 - Yandex.DNS
 Safe Internet browsing.
@@ -63,7 +61,7 @@ Safe Internet browsing.
 - Cloudflare DNS
 Safe Internet browsing.
 
-3. Network functions
+## Network functions
 
 - PPPoE client
 Allows to establish PPPoE connections from this device.
@@ -92,7 +90,7 @@ Provides customized NAT traversal filters to support address and port translatio
 - Application-layer gateway (ALG) for H.323
 Provides customized NAT traversal filters to support address and port translation for H.323 protocol.
 
-4. Utilities and services
+ ## Utilities and services
 
 - Internet connection status monitoring (Ping Check)
 Performs icmp- and tcp-based tests to verify the Internet connection status. Test results may be used to switch between primary and backup connections.
@@ -109,7 +107,7 @@ Provides domain names resolution via secure DNS-over-TLS protocol.
 - DNS-over-HTTPS proxy
 Provides domain names resolution via secure DNS-over-HTTPS protocol.
 
-5. USB modems and extension modules
+ ## USB modems and extension modules
 
 - Serial interface for 4G/3G USB modems
 Enables 4G/3G network connection via a USB modem with a serial interface.
@@ -123,7 +121,7 @@ Enables 4G/3G network connection via a USB modem with an NDIS interface.
 - QMI interface for 4G/3G USB modems
 Enables 4G/3G network connection via an external - or internal (on select Keenetic models) - USB modem that supports the QMI protocol.
 
-6. USB drives
+ ## USB drives
 
 - USB storage support
 Allows a USB drive to be connected to this device.
@@ -146,7 +144,7 @@ Allows an Ext-formatted USB drive to be connected to this device.
 - SMB file and printer sharing
 Allows sharing of USB drives and printers with Windows/Apple/Linux computers and other networked devices.
 
-- Media Server
+  7. Media Server
 Allows this device to stream content stored on a USB drive to networked digital media players.
 
 - FTP server
@@ -158,12 +156,12 @@ Allows secure file sharing via the SFTP protocol.
 - Folder permissions control
 Allows to specify individual user rights for folders on a USB drive.
 
-7. Support
+## Support
 
- - Multiple WAN with failover
+-  Multiple WAN with failover
    0. Wireless Wan
    1. 3 WAN Ethernet 3 LAN Ethernet (custom settings)
    2. LTE/4G/3G/2G USB modem
-   3. File Serve
+   3. File Servers
   
 </details>
