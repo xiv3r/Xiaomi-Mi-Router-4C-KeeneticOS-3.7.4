@@ -8,17 +8,19 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
 ## Installations:
 
- 0. [Download Here!!!](https://codeload.github.com/xiv3r/Xiaomi-Router-4C-Keenetic-v3.7.4-Firmware/zip/refs/heads/main)   the archive with scripts and unpack it. There are many files in the folder, we are only interested in `!Start.bat`
+ 1. [Download Here!!!](https://codeload.github.com/xiv3r/Xiaomi-Router-4C-Keenetic-v3.7.4-Firmware/zip/refs/heads/main)   the archive with scripts and unpack it. There are many files in the folder, we are only interested in `!Start.bat`
+
+ - rename the `pycache` folder to `__pycache__`
+
+ 2. First `Reset` the router and configure then go through the initial setup and set a password put `12345678`
  
- 1. First `Reset` the router and configure then go through the initial setup and set a password put `12345678`
- 
- 2. Disconnect everything unnecessary from the router and from the PC, and also turn off WiFi on the PC.
+ 3. Disconnect everything unnecessary from the router and from the PC, and also turn off WiFi on the PC.
 
- 3. Run `!Start.bat` select item `11`  Follow the instructions on the window. place the ip `192.168.31.1` and password `12345678`
+ 4. Run `!Start.bat` select item `11`  Follow the instructions on the window. place the ip `192.168.31.1` and password `12345678`
 
- 4. Run `22` , a backup of your firmware will be created in the data folder. Keep it in a safe place.
+ 5. Run `22` , a backup of your firmware will be created in the data folder. Keep it in a safe place.
 
- 5. Run `55` - to install Keenetic. In ~5 minutes the firmware will be installed, you can log into the router:`192.168.1.1`
+ 6. Run `55` - to install Keenetic. In ~5 minutes the firmware will be installed, you can log into the router:`192.168.1.1`
 
 # FEATURES
 
