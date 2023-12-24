@@ -151,7 +151,7 @@ Allows an Ext-formatted USB drive to be connected to this device.
 - SMB file and printer sharing
 Allows sharing of USB drives and printers with Windows/Apple/Linux computers and other networked devices.
 
-  7. Media Server
+## Media Server
 Allows this device to stream content stored on a USB drive to networked digital media players.
 
 - FTP server
@@ -166,7 +166,8 @@ Allows to specify individual user rights for folders on a USB drive.
 ## Support
 
 -  Multiple WAN with failover
-   0. Wireless Wan
+
+    0. Wireless Wan
    1. 3 WAN Ethernet 3 LAN Ethernet (custom settings)
    2. LTE/4G/3G/2G USB modem
    3. File Servers
