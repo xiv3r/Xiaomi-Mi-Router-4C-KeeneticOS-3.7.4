@@ -1,5 +1,8 @@
 # KeeneticOS 3.7.4 with USB-mod support for Xiaomi 4C Router
 
+<img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
+
+
 Note: SPI_NOR must be GigaDevice GD25Q128B*** only
 
 Note: If you have a router without USB, then you can install it too.
