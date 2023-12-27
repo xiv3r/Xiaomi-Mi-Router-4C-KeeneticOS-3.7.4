@@ -1,6 +1,6 @@
-# Xiaomi Router 4C Keenetic 3.7.4 Firmware with USB-mod support
+# KeeneticOS 3.7.4 with USB-mod support for Xiaomi 4C Router
 
-Install Keenetic on Xiaomi 4C Router | SPI_NOR GigaDevice GD25Q128*
+Note: SPI_NOR must be GigaDevice GD25Q128B*** only
 
 Note: If you have a router without USB, then you can install it too.
 
@@ -24,7 +24,7 @@ Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
  
  7. Go to [http://192.168.1.1](http://192.168.1.1)
 
-# FEATURES
+## FEATURES
 
 <details><summary>Overview</summary>
 
@@ -169,9 +169,11 @@ Allows to specify individual user rights for folders on a USB drive.
 
 -  Multiple WAN with failover
 
-    0. Wireless Wan
-   1. 3 WAN Ethernet 3 LAN Ethernet (custom settings)
-   2. LTE/4G/3G/2G USB modem
-   3. File Servers
+   0. Wireless Wan
+   1. LTE/4G/3G USB WAN
+   2. 3 Ethernet WAN 3 Ethernet LAN Ethernet (custom settings)
+   3. MultiWAN with failover
+   4. File Server
+   5. Custom Mac address through breed
   
 </details>
