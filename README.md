@@ -178,3 +178,5 @@ Allows to specify individual user rights for folders on a USB drive.
    5. Custom Mac address through breed
   
 </details>
+
+[RECOVERY](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-CH341A-Flasher)
