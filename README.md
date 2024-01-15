@@ -8,6 +8,15 @@
   - can apply guest segment to lan
   - no internet policy for unregistered devices
   - dual isp policy
+  - changeable mac through breed
+  - easy to recover through breed
+  - custom breed environment configurations
+  - custom hostname
+  - custom gateway port
+  - gatwayless through guest segement
+  - vpn
+  - adblockers
+  - etc...
   - best third party routerOS than any others
  
 <img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
