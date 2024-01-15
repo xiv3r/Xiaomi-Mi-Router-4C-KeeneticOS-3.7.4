@@ -1,5 +1,15 @@
 # KeeneticOS 3.7.4 with USB-mod support for Xiaomi 4C Router
 
+### Feartures:
+  - 3 isp with auto flailover
+  - usb modem through USB mod support
+  - files server
+  - iptables firewall for every interfaces
+  - can apply guest segment to lan
+  - no internet policy for unregistered devices
+  - dual isp policy
+  - best third party routerOS than any others
+ 
 <img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
 
 
