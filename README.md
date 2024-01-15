@@ -1,3 +1,8 @@
+
+![4crouter](https://github.com/xiv3r/Xiaomi-Mi-Router-4C-KeeneticOS-3.7.4/assets/117867334/46319c48-a3e4-453c-9ba0-902830d5c525)
+
+
+
 # KeeneticOS 3.7.4 with USB-mod support for Xiaomi 4C Router
 
 ### Feartures:
