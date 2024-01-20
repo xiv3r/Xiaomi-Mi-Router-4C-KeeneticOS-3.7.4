@@ -20,6 +20,7 @@
   - custom gateway port
   - gatwayless through guest segement
   - vpn
+  - vlan
   - adblockers
   - etc...
   - best third party routerOS than any others
@@ -33,7 +34,7 @@ Note: If you have a router without USB, then you can install it too.
 
 Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
 
-## Installations:
+## Windows Setups:
 
  1. [Download Here!!!](https://codeload.github.com/xiv3r/Xiaomi-Router-4C-Keenetic-v3.7.4-Firmware/zip/refs/heads/main)   the archive with scripts and unpack it. There are many files in the folder, we are only interested in `!Start.bat`.
 
