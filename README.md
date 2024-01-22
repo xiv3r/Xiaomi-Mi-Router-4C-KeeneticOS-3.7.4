@@ -3,7 +3,7 @@
 
 
 
-# KeeneticOS 3.7.4 with USB-mod support for Xiaomi 4C Router
+# <h1 align="center">KeeneticOS 3.7.4 with USB Mod for Xiaomi Mi 4C Router</h1>
 
 ### Features:
   - 3 isp with auto flailover
