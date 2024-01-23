@@ -5,10 +5,9 @@
 
 # <h1 align="center">KeeneticOS 3.7.4 with USB Mod for Xiaomi Mi 4C Router</h1>
 
-# <h1 align="center"> Features:
-</h1>
+<br></br>
 
-<p align="center">
+<h1 align="center"><details><summary>Features</summary>
   
   - 3 isp with auto flailover
   - usb modem through USB mod supports
@@ -28,16 +27,20 @@
   - adblockers
   - etc...
   - best third party routerOS than any others
-</p>
+</h1></details>
+
+<br></br>
 
 <img align="center" width="800" height="600" src="https://github.com/xiv3r/Xiaomi-Mi-Router-4A-Gigabit-KeeneticOS-3.7.4/blob/main/firmwares/Screenshot_2023_1227_121024.png">
-
+<br>
 
 Note: SPI_NOR must be GigaDevice GD25Q128B | WINBOND W25Q128 | CFEON EN25QX128A
 
 Note: If you have a router without USB, then you can install it too.
 
 Note: Tested on R4C with firmware 2.14.128 and 3.0.23.
+
+<br><br></br>
 
 # <h1 align="center">Windows Setups</h1>
 
