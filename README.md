@@ -208,7 +208,7 @@ Allows to specify individual user rights for folders on a USB drive.
    4. File Server
    5. Custom Mac address through breed
   
-</details>
+</h1></details>
 
 <h1 align="center">
   
